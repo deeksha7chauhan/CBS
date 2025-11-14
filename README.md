@@ -1,4 +1,4 @@
-# CBS- Compositional Behavior Synthesis for Zer-shot Trajectory Prediction
+
 # Compositional Behavior Synthesis (CBS) — Zero-Shot Motion Forecasting
 
 **TL;DR:** Predict the future paths of nearby vehicles and pedestrians (3–8s ahead) by learning a small set of **driving primitives** and a **temporal composer** that blends them into full trajectories. The goal is strong **zero-shot** robustness on rare, long-tail scenes.
